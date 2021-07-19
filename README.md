@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @krisdewa
-- 👀 I’m interested in Web Developer and Network Engineer
-- 🌱 I’m currently learning in informatics engineering
-- 📫 Find Me On Instagram @Kris_dewa
-
 <h1>The Tools & Languages I Use</h1>
 <div class="bahasa" style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -15,3 +10,10 @@
   <img src="https://camo.githubusercontent.com/dbbdeebb2a1da0d8867448473dd103127adac6dc4b996830f8e7555f538de171/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465">
 </div>
 <br>
+
+- 👋 Hi, I’m @krisdewa
+- 👀 I’m interested in Web Developer and Network Engineer
+- 🌱 I’m currently learning in informatics engineering
+- 📫 Find Me On Instagram @Kris_dewa
+
+
