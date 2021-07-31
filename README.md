@@ -1,5 +1,14 @@
 Hello My friend
 
+<h1 align="center">Hi 👋, I'm Krisdewa</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krisdewa&label=Profile%20views&color=0e75b6&style=flat" alt="krisdewa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisdewa" alt="krisdewa" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/krisdewa" target="blank"><img src="https://img.shields.io/twitter/follow/krisdewa?logo=twitter&style=for-the-badge" alt="krisdewa" /></a> </p>
+
 - 👋 Hi, I’m @krisdewa
 - 👀 I’m interested in Web Developer and Network Engineer
 - 🌱 I’m currently learning in informatics engineering
