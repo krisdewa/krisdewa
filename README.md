@@ -13,7 +13,7 @@
 
 # Most Used Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisdewa&show_icons=true&locale=en&layout=compact" alt="krisdewa" /></p>
-
+<br>
 # Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krisdewa&show_icons=true&locale=en" alt="krisdewa" /></p>
 
