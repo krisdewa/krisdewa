@@ -16,8 +16,5 @@
 - 🌱 I’m currently learning in informatics engineering
 - 📫 Find Me On Instagram @Kris_dewa
 
-# My Github Stats
 
-# My Github Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamputra27&langs_count=8)](https://github.com/adityamputra27/github-readme-stats)
 
