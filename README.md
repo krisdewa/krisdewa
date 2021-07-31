@@ -1,10 +1,7 @@
-Hello My friend
-
 <h1 align="center">Hi 👋, I'm @Krisdewa</h1>
 <h3 align="center">A passionate Web Developer and Cyber Security from Indonesia</h3>
-- 🌱 I’m currently learning in informatics engineering
-- 📫 Find Me On Instagram @Kris_dewa
-
+<h4 align="center">🌱 I’m currently learning in informatics engineering</h3>
+<h4 align="center">📫 Find Me On Instagram @Kris_dewa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisdewa&label=Profile%20views&color=0e75b6&style=flat" alt="krisdewa" /> </p>
 
