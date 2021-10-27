@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Web Developer and Cyber Security from Indonesia</h3>
 <h4 align="center">🌱 I’m currently learning in informatics engineering <br> 📫 Find Me On Instagram @Kris_dewa</h3>
 <h4 align="center"></h3>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+	
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisdewa&label=Profile%20views&color=0e75b6&style=flat" alt="krisdewa" /> </p>
 
