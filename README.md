@@ -33,5 +33,5 @@
 
 # Most Used Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisdewa&show_icons=true&locale=en&layout=compact" alt="krisdewa" /></p>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={krisdewa}&theme=blue-green"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisdewa&theme=blue-green"></a>
 
