@@ -4,7 +4,7 @@
 <h4 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisdewa&label=Profile%20views&color=0e75b6&style=flat" alt="krisdewa" /> </p>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCcFXtJI7vNklL6XHSevgXZg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
