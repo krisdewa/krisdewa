@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/krisdewa/krisdewa/main/banner-sip.png)
 <h3 align="center">👋 Currently open to Work</h3>
-<h4 align="center">🌱 I’m currently learning in informatics engineering <br> 📫 Find Me On Instagram @krisdewa_</h3>
+<h4 align="center">🌱 I’m learning in informatics engineering <br> 📫 Find Me On Instagram @krisdewa_</h3>
 <h4 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisdewa&label=Profile%20views&color=0e75b6&style=flat" alt="krisdewa" /> </p>
