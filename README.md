@@ -4,6 +4,8 @@
 <h4 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisdewa&label=Profile%20views&color=0e75b6&style=flat" alt="krisdewa" /> </p>
+<a href="#"><img src="https://img.shields.io/badge/youtube/channel/subscribers/UCcFXtJI7vNklL6XHSevgXZg"></a>
+
 <h3 align="left">Social Media:</h3>
 <a href="https://www.instagram.com/krisdewa_/?hl=id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/krisna-dewa-pratama-9aa907153/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
