@@ -24,6 +24,24 @@ total 72
 -rw-r--r-- 1 krisdew krisproject  1876 Jun 24 11:07 Sqlmap
 -rw-r--r-- 1 krisdew krisproject 27463 Jun 24 11:29 Burpsuite
 
+┌──(krisdew㉿krisproject)-[~/github]
+└─$ cat ~/dev/main.py
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class CyberSecurity:
+    def __init__(self):
+        self.username = "Krisdewa"
+        self.role = "Web Developer & Cyber Security Enthusiast"
+        self.occupation = "Security Consultant"
+        self.operating_system = "Kali Linux, Ubuntu"
+        
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = CyberSecurity()
+me.say_hi()
 ```
 ### 📫 How to reach me:
 
